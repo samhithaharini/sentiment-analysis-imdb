@@ -1,6 +1,6 @@
 #  Sentiment Analysis Project
 
-This project focuses on **Sentiment Analysis**, a Natural Language Processing (NLP) task used to determine whether a piece of text expresses **positive, negative, or neutral sentiment**.
+This project focuses on **Sentiment Analysis**, a Natural Language Processing (NLP) task used to determine whether a piece of text expresses **positive or negative sentiment**.
 
 ---
 
