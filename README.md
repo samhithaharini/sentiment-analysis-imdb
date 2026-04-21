@@ -52,15 +52,6 @@ It is widely used to understand:
 
 ---
 
-##  Models Used
-
-- Logistic Regression  
-- Naive Bayes  
-- Support Vector Machine (SVM)  
-- Deep Learning Models like LSTM  
-
----
-
 ##  Types of Sentiment Analysis
 
 1. **Fine-Grained Sentiment Analysis**
@@ -104,3 +95,7 @@ It is widely used to understand:
 - Apply ML/DL techniques to textual data  
 
 ---
+
+## Output
+
+[Positive Review](sentiment-output.png)
