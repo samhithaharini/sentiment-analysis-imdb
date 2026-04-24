@@ -98,4 +98,5 @@ It is widely used to understand:
 
 ## Output
 
-![Positive Review](sentiment-output.png)
+![Positive Review](output1.png)
+![Positive Review](output2.png)
